@@ -1,0 +1,5 @@
+orden
+cable
+mesa
+persona
+pelota
